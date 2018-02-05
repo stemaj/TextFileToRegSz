@@ -1,6 +1,6 @@
 ﻿namespace TextFileToRegSz
 {
-    internal interface ICanRegistry
+    public interface ICanRegistry
     {
         bool PrüfeObGültigerSchlüsselIst(string value);
 
